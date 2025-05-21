@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram id="51zmUan4mFf6pz3q3UUt" name="InsureTech">
-    <mxGraphModel dx="2316" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="1952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -426,14 +426,20 @@
         <mxCell id="vI33l1CqOF1jZxur0x08-43" value="Logstash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="690" y="1250" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="vI33l1CqOF1jZxur0x08-49" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Circuit breaker&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="vI33l1CqOF1jZxur0x08-49" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Circuit&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;breaker&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1900" y="491.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vI33l1CqOF1jZxur0x08-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#FF0000;endArrow=block;endFill=1;" edge="1" parent="1" source="vI33l1CqOF1jZxur0x08-50" target="uZ0quFO-MIEIE11IO5jD-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vI33l1CqOF1jZxur0x08-50" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Circuit breaker&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="vI33l1CqOF1jZxur0x08-50" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Circuit&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;breaker&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1450" y="648.75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vI33l1CqOF1jZxur0x08-63" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
+          <mxGeometry x="1900" y="491.25" width="31.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vI33l1CqOF1jZxur0x08-64" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=c_role" vertex="1" parent="1">
+          <mxGeometry x="1451.75" y="648.75" width="31.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
